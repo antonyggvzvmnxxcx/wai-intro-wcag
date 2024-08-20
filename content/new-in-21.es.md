@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "Novedades en WCAG 2.1"
 nav_title: "Novedades en 2.1"
 
@@ -30,7 +28,7 @@ inline_css: |
   blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f0f0;color: #000; margin-right: 0; margin-bottom:40px;}
   .quotes {margin-bottom:40px;}
   .quotes ul {list-style-type: none;}
-  .quotes li>p {display:table-row; padding-bottom:}
+  .quotes li>p {display:table-row;}
   .quotes li>p span {display:table-cell;}
   .issue {font-weight: bold; display:table-cell; width: 6em;}
   q:before {content: open-quote;color: #005a6a;font-weight: bold;}
